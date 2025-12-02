@@ -1,0 +1,32 @@
+# Core
+pandas
+numpy
+
+# Time series
+pmdarima
+statsmodels
+prophet
+cmdstanpy
+
+# ML / Optimisation
+scikit-learn
+xgboost
+optuna
+joblib
+
+# Viz
+matplotlib
+seaborn
+plotly
+
+# Cloud / BigQuery
+google-cloud-bigquery
+google-auth
+
+# Utility
+python-dotenv
+openpyxl
+
+# Notebook
+jupyterlab
+ipykernel
